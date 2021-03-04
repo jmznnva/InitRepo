@@ -1,4 +1,5 @@
 # InitRepo
+
 My First Repo
 
-Use carefully!
+Beware. Use carefully!
