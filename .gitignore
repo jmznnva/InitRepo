@@ -1,1 +1,3 @@
-rubbish
+.DS_Store
+.project
+*.pyc
